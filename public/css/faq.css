@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@media only screen and (min-width: 1200px){
+    div.faq{
+        width: 100%;
+        height: auto;
+        padding:50px 2.5%;
+        background-color: black;
+    }
+    div.faq>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size: 30px;
+    }
+    div.faq>p{
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 20px;
+        color: white !important;
+    }
+    div.faq>div.faqItem{
+        width: 70%;
+        height: auto;
+        margin: 0 auto;
+    }
+    div.faq>div.faqItem>div.part{
+        margin-bottom: 25px;
+    }
+    div.faq>div.faqItem>div>h2>button{
+        font-size: 20px;
+    }
+    div.faq>div.faqItem>div>div>div>p{
+        font-size: 16px;
+        padding-left: 10px;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+    div.faq{
+        width: 100%;
+        height: auto;
+        padding:50px 2.5%;
+        background-color: black;
+    }
+    div.faq>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size: 30px;
+    }
+    div.faq>p{
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 20px;
+        color: white !important;
+    }
+    div.faq>div.faqItem{
+        width: 75%;
+        height: auto;
+        margin: 0 auto;
+    }
+    div.faq>div.faqItem>div.part{
+        margin-bottom: 25px;
+    }
+    div.faq>div.faqItem>div>h2>button{
+        font-size: 20px;
+    }
+    div.faq>div.faqItem>div>div>div>p{
+        font-size: 16px;
+        padding-left: 10px;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width:992px ){
+    div.faq{
+        width: 100%;
+        height: auto;
+        padding:50px 2.5%;
+        background-color: black;
+    }
+    div.faq>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size: 30px;
+    }
+    div.faq>p{
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 20px;
+        color: white!important;
+    }
+    div.faq>div.faqItem{
+        width: 80%;
+        height: auto;
+        margin: 0 auto;
+    }
+    div.faq>div.faqItem>div.part{
+        margin-bottom: 25px;
+    }
+    div.faq>div.faqItem>div>h2>button{
+        font-size: 20px;
+    }
+    div.faq>div.faqItem>div>div>div>p{
+        font-size: 16px;
+        padding-left: 10px;
+    }
+}
+@media only screen and (min-width: 576px) and (max-width: 768px){
+    div.faq{
+        width: 100%;
+        height: auto;
+        padding:50px 2.5%;
+        background-color: black;
+    }
+    div.faq>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size: 30px;
+    }
+    div.faq>p{
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 20px;
+        color: white!important;
+    }
+    div.faq>div.faqItem{
+        width: 90%;
+        height: auto;
+        margin: 0 auto;
+    }
+    div.faq>div.faqItem>div.part{
+        margin-bottom: 25px;
+    }
+    div.faq>div.faqItem>div>h2>button{
+        font-size: 20px;
+    }
+    div.faq>div.faqItem>div>div>div>p{
+        font-size: 16px;
+        padding-left: 10px;
+    }
+}
+@media only screen and (max-width: 576px){
+    div.faq{
+        width: 100%;
+        height: auto;
+        padding:50px 2.5%;
+        background-color: black;
+    }
+    div.faq>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size:30px;
+    }
+    div.faq>p{
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 20px;
+        color: white!important;
+    }
+    div.faq>div.faqItem{
+        width: 95%;
+        height: auto;
+        margin: 0 auto;
+    }
+    div.faq>div.faqItem>div.part{
+        margin-bottom: 25px;
+    }
+    div.faq>div.faqItem>div>h2>button{
+        font-size: 20px;
+    }
+    div.faq>div.faqItem>div>div>div>p{
+        font-size: 16px;
+        padding-left: 10px;
+    }
+}
+

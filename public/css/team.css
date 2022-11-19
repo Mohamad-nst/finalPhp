@@ -1,0 +1,391 @@
+@media only screen and (min-width:1200px){
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    div.team{
+        width: 100%;
+        padding:50px 2.5%;
+        height: auto;
+    }
+    div.team>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size: 30px;
+    }
+    div.team>p{
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 20px;
+        width: 90%;
+    }
+    div.team>div.itemTeam{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        flex-flow: row wrap;
+    }
+    div.team>div.itemTeam>div{
+        width: 28%;
+        height: auto;
+        box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+        margin: 25px;
+        text-align: center;
+        padding-top: 30px;
+        padding-bottom: 60px;
+    }
+    div.team>div.itemTeam>div>img{
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        object-fit: cover;
+    }
+    div.team>div.itemTeam>div>h4{
+        margin-top: 20px;
+        text-transform: capitalize;
+        font-size: 20px;
+    }
+    div.team>div.itemTeam>div>h5{
+        text-transform: capitalize;
+        font-size: 14px;
+    }
+    div.team>div.itemTeam>div>p{
+        width:80% ;
+        margin: 20px auto;
+        text-align: center;
+        font-size: 16px;
+        text-transform: capitalize;
+    }
+    div.team>div.itemTeam>div>div.social{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+    }
+    div.team>div.itemTeam>div>div.social>a{
+        display: inline-block;
+        color: black;
+    }
+    div.team>div.itemTeam>div>div.social>a>i{
+        display: block;
+        font-size: 24px;
+        margin: 0 10px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1200px){
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    div.team{
+        width: 100%;
+        padding:50px 2.5%;
+        height: auto;
+    }
+    div.team>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size: 30px;
+    }
+    div.team>p{
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 20px;
+    }
+    div.team>div.itemTeam{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        flex-flow: row wrap;
+    }
+    div.team>div.itemTeam>div{
+        width: 28%;
+        height: auto;
+        box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+        margin: 25px;
+        text-align: center;
+        padding-top: 30px;
+        padding-bottom: 60px;
+    }
+    div.team>div.itemTeam>div>img{
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        object-fit: cover;
+    }
+    div.team>div.itemTeam>div>h4{
+        margin-top: 20px;
+        text-transform: capitalize;
+        font-size: 20px;
+    }
+    div.team>div.itemTeam>div>h5{
+        text-transform: capitalize;
+        font-size: 14px;
+    }
+    div.team>div.itemTeam>div>p{
+        width:80% ;
+        margin: 20px auto;
+        text-align: center;
+        font-size: 16px;
+        text-transform: capitalize;
+    }
+    div.team>div.itemTeam>div>div.social{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+    }
+    div.team>div.itemTeam>div>div.social>a{
+        display: inline-block;
+        color: black;
+    }
+    div.team>div.itemTeam>div>div.social>a>i{
+        display: block;
+        font-size: 24px;
+        margin: 0 10px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:992px){
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    div.team{
+        width: 100%;
+        padding:50px 1.5%;
+        height: auto;
+    }
+    div.team>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size: 30px;
+    }
+    div.team>p{
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 20px;
+    }
+    div.team>div.itemTeam{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        flex-flow: row wrap;
+    }
+    div.team>div.itemTeam>div{
+        width: 40% ;
+        height: auto;
+        box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+        margin: 25px;
+        text-align: center;
+        padding-top: 30px;
+        padding-bottom: 60px;
+    }
+    div.team>div.itemTeam>div:nth-last-of-type(1){
+        margin-bottom: 50px;
+    }
+    div.team>div.itemTeam>div>img{
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        object-fit: cover;
+    }
+    div.team>div.itemTeam>div>h4{
+        margin-top: 20px;
+        text-transform: capitalize;
+        font-size: 20px;
+    }
+    div.team>div.itemTeam>div>h5{
+        text-transform: capitalize;
+        font-size: 14px;
+    }
+    div.team>div.itemTeam>div>p{
+        width:88% ;
+        margin: 20px auto;
+        text-align: center;
+        font-size: 16px;
+        text-transform: capitalize;
+    }
+    div.team>div.itemTeam>div>div.social{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+    }
+    div.team>div.itemTeam>div>div.social>a{
+        display: inline-block;
+        color: black;
+    }
+    div.team>div.itemTeam>div>div.social>a>i{
+        display: block;
+        font-size: 24px;
+        margin: 0 10px;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:768px){
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    div.team{
+        width: 100%;
+        height: auto;
+        padding: 50px 2.5%;
+    }
+    div.team>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size: 30px;
+    }
+    div.team>p{
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 20px;
+    }
+    div.team>div.itemTeam{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        flex-flow: row wrap;
+    }
+    div.team>div.itemTeam>div{
+        width: 65%;
+        height: auto;
+        box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+        margin: 25px;
+        text-align: center;
+        padding-top: 30px;
+        padding-bottom: 60px;
+    }
+    div.team>div.itemTeam>div>img{
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        object-fit: cover;
+    }
+    div.team>div.itemTeam>div>h4{
+        margin-top: 20px;
+        text-transform: capitalize;
+    }
+    div.team>div.itemTeam>div>h5{
+        text-transform: capitalize;
+        font-size: 14px;
+    }
+    div.team>div.itemTeam>div>p{
+        width:85% ;
+        margin: 20px auto;
+        text-align: center;
+        font-size: 16px;
+        text-transform: capitalize;
+    }
+    div.team>div.itemTeam>div>div.social{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+    }
+    div.team>div.itemTeam>div>div.social>a{
+        display: inline-block;
+        color: black;
+    }
+    div.team>div.itemTeam>div>div.social>a>i{
+        display: block;
+        font-size: 24px;
+        margin: 0 10px;
+    }
+}
+@media only screen and (max-width:576px) {
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    div.team{
+        width: 100%;
+        padding:50px 2.5%;
+        height: auto;
+    }
+    div.team>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size: 30px;
+    }
+    div.team>p{
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 20px;
+        width: 90%;
+    }
+    div.team>div.itemTeam{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        flex-flow: row wrap;
+    }
+    div.team>div.itemTeam>div{
+        width: 90%;
+        height: auto;
+        box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+        margin: 25px;
+        text-align: center;
+        padding-top: 30px;
+        padding-bottom: 60px;
+    }
+    div.team>div.itemTeam>div>img{
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        object-fit: cover;
+    }
+    div.team>div.itemTeam>div>h4{
+        margin-top: 20px;
+        text-transform: capitalize;
+        font-size: 20px;
+    }
+    div.team>div.itemTeam>div>h5{
+        text-transform: capitalize;
+        font-size: 14px;
+    }
+    div.team>div.itemTeam>div>p{
+        width:85% ;
+        margin: 20px auto;
+        text-align: center;
+        font-size: 16px;
+        text-transform: capitalize;
+    }
+    div.team>div.itemTeam>div>div.social{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+    }
+    div.team>div.itemTeam>div>div.social>a{
+        display: inline-block;
+        color: black;
+    }
+    div.team>div.itemTeam>div>div.social>a>i{
+        display: block;
+        font-size: 24px;
+        margin: 0 10px;
+    }
+}

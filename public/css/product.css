@@ -1,0 +1,375 @@
+@media only screen and (min-width: 1200px){
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    div.product{
+        width: 100%;
+        height: auto;
+        padding:50px 2.5%;
+    }
+    div.product>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size: 40px;
+    }
+    div.product>p{
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 24px;
+        color:black;
+    }
+    div.product>div.itemProduct{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        flex-flow: row wrap;
+    }
+    div.product>div.itemProduct>div{
+        width: 30%;
+        height: auto;
+        margin: 25px;
+        background-color: #E7E7E7;
+        padding-bottom: 50px;
+        box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+    }
+    div.product>div.itemProduct>div>img{
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+        margin-bottom: 20px;
+    }
+    div.product>div.itemProduct>div>h1{
+        margin:10px 0;
+        color: #CC1616;
+        text-transform: uppercase;
+        text-align: left;
+        padding-left: 25px;
+        font-size: 30px;
+    }
+    div.product>div.itemProduct>div>p{
+        margin-bottom: 20px;
+        font-size:20px;
+        color:black;
+        padding: 0 25px;
+    }
+    div.product>div.itemProduct>div>div{
+        padding-left: 25px;
+    }
+    div.product>div.itemProduct>div>div>a{
+        display: inline-block;
+        margin-top: 25px;
+        width: 125px;
+        height: auto;
+        padding: 5px 0;
+        background-color:#198754 ;
+        color: white;
+        border-radius: 25px;
+        text-transform: capitalize;
+        font-size: 20px;
+        text-align: center;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    div.product{
+        width: 100%;
+        height: auto;
+        padding:50px 2.5%;
+    }
+    div.product>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size: 40px;
+    }
+    div.product>p{
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 24px;
+        color:black;
+    }
+    div.product>div.itemProduct{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        flex-flow: row wrap;
+    }
+    div.product>div.itemProduct>div{
+        width: 30%;
+        height: auto;
+        margin: 25px;
+        background-color: #E7E7E7;
+        padding-bottom: 50px;
+        box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+    }
+    div.product>div.itemProduct>div>img{
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+        margin-bottom: 20px;
+    }
+    div.product>div.itemProduct>div>h1{
+        margin:10px 0;
+        font-size: 24px;
+        color: #CC1616;
+        text-transform: uppercase;
+        text-align: left;
+        padding-left: 25px;
+    }
+    div.product>div.itemProduct>div>p{
+        margin-bottom: 20px;
+        font-size:20px;
+        color:black;
+        padding: 0 25px;
+    }
+    div.product>div.itemProduct>div>div{
+        padding-left: 25px;
+    }
+    div.product>div.itemProduct>div>div>a{
+        display: inline-block;
+        margin-top: 25px;
+        width: 125px;
+        height: auto;
+        padding: 5px 0;
+        background-color:#198754 ;
+        color: white;
+        border-radius: 25px;
+        text-transform: capitalize;
+        font-size: 20px;
+        text-align: center;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 992px){
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    div.product{
+        width: 100%;
+        height: auto;
+        padding:50px 2.5%;
+    }
+    div.product>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size: 40px;
+    }
+    div.product>p{
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 24px;
+        color:black;
+    }
+    div.product>div.itemProduct{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        flex-flow: row wrap;
+    }
+    div.product>div.itemProduct>div{
+        width: 60%;
+        height: auto;
+        margin: 25px;
+        background-color: #E7E7E7;
+        padding-bottom: 50px;
+        box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+    }
+    div.product>div.itemProduct>div>img{
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+        margin-bottom: 20px;
+    }
+    div.product>div.itemProduct>div>h1{
+        margin:10px 0;
+        font-size: 24px;
+        color: #CC1616;
+        text-transform: uppercase;
+        text-align: left;
+        padding-left: 25px;
+    }
+    div.product>div.itemProduct>div>p{
+        margin-bottom: 20px;
+        font-size:20px;
+        color:black;
+        padding: 0 25px;
+    }
+    div.product>div.itemProduct>div>div{
+        padding-left: 25px;
+    }
+    div.product>div.itemProduct>div>div>a{
+        display: inline-block;
+        margin-top: 25px;
+        width: 125px;
+        height: auto;
+        padding: 5px 0;
+        background-color:#198754 ;
+        color: white;
+        border-radius: 25px;
+        text-transform: capitalize;
+        font-size: 20px;
+        text-align: center;
+    }
+}
+@media only screen and (min-width: 576px) and (max-width: 768px){
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    div.product{
+        width: 100%;
+        height: auto;
+        padding:50px 2.5%;
+    }
+    div.product>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size: 40px;
+    }
+    div.product>p{
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 24px;
+        color:black;
+    }
+    div.product>div.itemProduct{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        flex-flow: row wrap;
+    }
+    div.product>div.itemProduct>div{
+        width:75%;
+        height: auto;
+        margin: 25px;
+        background-color: #E7E7E7;
+        padding-bottom: 50px;
+        box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+    }
+    div.product>div.itemProduct>div>img{
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+        margin-bottom: 20px;
+    }
+    div.product>div.itemProduct>div>h1{
+        margin:10px 0;
+        font-size: 24px;
+        color: #CC1616;
+        text-transform: uppercase;
+        text-align: left;
+        padding-left: 25px;
+    }
+    div.product>div.itemProduct>div>p{
+        margin-bottom: 20px;
+        font-size:20px;
+        color:black;
+        padding: 0 25px;
+    }
+    div.product>div.itemProduct>div>div{
+        padding-left: 25px;
+    }
+    div.product>div.itemProduct>div>div>a{
+        display: inline-block;
+        margin-top: 25px;
+        width: 125px;
+        height: auto;
+        padding: 5px 0;
+        background-color:#198754 ;
+        color: white;
+        border-radius: 25px;
+        text-transform: capitalize;
+        font-size: 20px;
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 576px){
+    div.product{
+        width: 100%;
+        height: auto;
+        padding:50px 2.5%;
+    }
+    div.product>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size: 40px;
+    }
+    div.product>p{
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 24px;
+        color:black;
+    }
+    div.product>div.itemProduct{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        flex-flow: row wrap;
+    }
+    div.product>div.itemProduct>div{
+        width: 95%;
+        height: auto;
+        margin: 25px;
+        background-color: #E7E7E7;
+        padding-bottom: 50px;
+        box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+    }
+    div.product>div.itemProduct>div>img{
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+        margin-bottom: 20px;
+    }
+    div.product>div.itemProduct>div>h1{
+        margin:10px 0;
+        font-size: 24px;
+        color: #CC1616;
+        text-transform: uppercase;
+        text-align: left;
+        padding-left: 25px;
+    }
+    div.product>div.itemProduct>div>p{
+        margin-bottom: 20px;
+        font-size:20px;
+        color:black;
+        padding: 0 25px;
+    }
+    div.product>div.itemProduct>div>div{
+        padding-left: 25px;
+    }
+    div.product>div.itemProduct>div>div>a{
+        display: inline-block;
+        margin-top: 25px;
+        width: 125px;
+        height: auto;
+        padding: 5px 0;
+        background-color:#198754 ;
+        color: white;
+        border-radius: 25px;
+        text-transform: capitalize;
+        font-size: 20px;
+        text-align: center;
+    }
+}

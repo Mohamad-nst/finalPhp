@@ -1,0 +1,245 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@media only screen and (min-width: 1200px){
+    div.service{
+        width: 100%;
+        height: auto;
+        padding:50px 2.5%;
+    }
+    div.service>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size: 30px;
+    }
+    div.service>p{
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 20px;
+    }
+    div.service>div.itemService{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    div.service>div.itemService>div{
+        margin: 20px;
+        width: 40%;
+        height: auto;
+        background-color: white;
+        display: flex;
+    }
+    div.service>div.itemService>div>div.icon{
+        padding-top: 5px;
+        width: 150px;
+        height: 100%;
+        text-align: center;
+    }
+    div.service>div.itemService>div>div.icon>i{
+        font-size: 35px;
+    }
+    div.service>div.itemService>div>div.text>h1{
+        text-transform: capitalize;
+        font-size: 30px;
+    }
+    div.service>div.itemService>div>div.text>p{
+        font-size: 16px;
+        text-align: justify;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+    div.service{
+        width: 100%;
+        height: auto;
+        padding:50px 2.5%;
+    }
+    div.service>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size: 30px;
+    }
+    div.service>p{
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 20px;
+    }
+    div.service>div.itemService{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    div.service>div.itemService>div{
+        margin: 20px;
+        width: 40%;
+        height: auto;
+        background-color: white;
+        display: flex;
+    }
+    div.service>div.itemService>div>div.icon{
+        padding-top: 5px;
+        width: 150px;
+        height: 100%;
+        text-align: center;
+    }
+    div.service>div.itemService>div>div.icon>i{
+        font-size: 35px;
+    }
+    div.service>div.itemService>div>div.text>h1{
+        text-transform: capitalize;
+        font-size: 30px;
+    }
+    div.service>div.itemService>div>div.text>p{
+        font-size: 16px;
+        text-align: justify;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 992px){
+    div.service{
+        width: 100%;
+        height: auto;
+        padding:50px 2.5%;
+    }
+    div.service>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size: 30px;
+    }
+    div.service>p{
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 20px;
+    }
+    div.service>div.itemService{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    div.service>div.itemService>div{
+        margin:15px 0;
+        width: 60%;
+        height: auto;
+        background-color: white;
+        display: flex;
+    }
+    div.service>div.itemService>div>div.icon{
+        padding-top: 5px;
+        width: 150px;
+        height: 100%;
+        text-align: center;
+    }
+    div.service>div.itemService>div>div.icon>i{
+        font-size: 35px;
+    }
+    div.service>div.itemService>div>div.text>h1{
+        text-transform: capitalize;
+        font-size: 30px;
+    }
+    div.service>div.itemService>div>div.text>p{
+        font-size: 16px;
+        text-align: justify;
+    }
+}
+@media only screen and (min-width: 576px) and (max-width: 768px){
+    div.service{
+        width: 100%;
+        height: auto;
+        padding:50px 2.5%;
+    }
+    div.service>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size: 30px;
+    }
+    div.service>p{
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 20px;
+    }
+    div.service>div.itemService{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    div.service>div.itemService>div{
+        margin:15px 0;
+        width: 75%;
+        height: auto;
+        background-color: white;
+        display: flex;
+    }
+    div.service>div.itemService>div>div.icon{
+        padding-top: 5px;
+        width: 150px;
+        height: 100%;
+        text-align: center;
+    }
+    div.service>div.itemService>div>div.icon>i{
+        font-size: 35px;
+    }
+    div.service>div.itemService>div>div.text>h1{
+        text-transform: capitalize;
+        font-size: 30px;
+    }
+    div.service>div.itemService>div>div.text>p{
+        font-size: 16px;
+        text-align: justify;
+    }
+}
+@media only screen and (max-width: 576px){
+    div.service{
+        width: 100%;
+        height: auto;
+        padding:50px 2.5%;
+    }
+    div.service>h1{
+        text-align: center;
+        text-transform: capitalize;
+        color: #198754;
+        font-size: 30px;
+    }
+    div.service>p{
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        font-size: 20px;
+    }
+    div.service>div.itemService{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    div.service>div.itemService>div{
+        margin:15px 0;
+        width: 95%;
+        height: auto;
+        background-color: white;
+        display: flex;
+    }
+    div.service>div.itemService>div>div.icon{
+        padding-top: 5px;
+        width: 150px;
+        height: 100%;
+        text-align: center;
+    }
+    div.service>div.itemService>div>div.icon>i{
+        font-size: 35px;
+    }
+    div.service>div.itemService>div>div.text>h1{
+        text-transform: capitalize;
+        font-size: 30px;
+    }
+    div.service>div.itemService>div>div.text>p{
+        font-size: 16px;
+        text-align: justify;
+    }
+}
